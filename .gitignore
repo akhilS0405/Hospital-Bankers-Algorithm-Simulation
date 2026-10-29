@@ -3,10 +3,6 @@
 *.o
 *.obj
 
-# Temporary test scripts
-patch_builder.py
-verify_pages.py
-verify_15_pages.py
-fix_encoding.py
-generate_pdf.py
-generate_pdf_v2.py
+# Intermediate generator variants
+build_exact_report.py
+Hospital_Bankers_Algorithm_Case_Study_v2.pdf
