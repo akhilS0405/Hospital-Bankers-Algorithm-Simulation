@@ -1,0 +1,12 @@
+# Binaries and executables
+*.exe
+*.o
+*.obj
+
+# Temporary test scripts
+patch_builder.py
+verify_pages.py
+verify_15_pages.py
+fix_encoding.py
+generate_pdf.py
+generate_pdf_v2.py
